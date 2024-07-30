@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+}
+
+#info {
+    top: 10px;
+    width: 100%;
+    text-align: center;
+    z-index: 100;
+    display: block;
+}
+
+#container {
+    width: 800px;
+    height: 600px;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+}
